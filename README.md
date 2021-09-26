@@ -1,4 +1,4 @@
-Hello, my name is Tuan Anh Dang and I am currently studying at Cornell University. My interests are in Mathematics, Computer Vision, and the financial sector.
+Hello, my name is Tuan Anh Dang and I am currently studying at Cornell University. My interests are in Mathematics, ML, and the financial sector.
 
 For more information, you can view my full credentials at www.linkedin.com/in/TuanAnhDang.
 
