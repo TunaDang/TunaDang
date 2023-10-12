@@ -1,4 +1,4 @@
-Hello, my name is Tuan Anh Dang and I am currently studying Computer Science and Mathematics at Cornell University. My interests are in Computer Vision, blockchain technology and quantitative finance.
+Hello, my name is Tuan Anh Dang and I am currently studying Computer Science and Economics at Cornell University. My interests are in Computer Vision, blockchain technology and quantitative finance.
 
 For more information, you can view my full credentials at www.linkedin.com/in/TuanAnhDang.
 
