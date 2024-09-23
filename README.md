@@ -1,4 +1,4 @@
-Hello, my name is Tuan Anh Dang and I am currently pursueing my Master of Engineering in Computer Science Cornell University. My interests are in greater Machine Learning (CV, LLMs, RL), econometrics and anything quantitative.
+Hello, my name is Tuan Anh Dang and I am currently pursuing my Master of Engineering in Computer Science Cornell University. My interests are in greater Machine Learning (CV, LLMs, RL), econometrics and anything quantitative.
 
 For more information, you can view my full credentials at www.linkedin.com/in/TuanAnhDang or website https://tunadang.github.io/.
 
