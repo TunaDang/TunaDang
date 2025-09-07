@@ -1,8 +1,8 @@
-Hello, my name is Tuan Anh Dang and I am done pursuing my Master of Engineering in Computer Science Cornell University. My interests are in greater Machine Learning (CV, LLMs, RL), econometrics and anything quantitative.
+Hello, my name is Tuan Anh Dang and I graudated Master of Engineering in Computer Science Cornell University and am currently working at Microsoft Research. 
 
-For more information, you can view my full credentials at www.linkedin.com/in/TuanAnhDang or website https://tunadang.github.io/.
+My interests are in greater Machine Learning (CV, LLMs, Agents), Economics and anything at the intersection of those two. For more information, you can view my full credentials at www.linkedin.com/in/TuanAnhDang or website https://tunadang.github.io/.
 
-I’m currently looking for a full-time job and/or summer internship, availability year round. If you would like to talk more, feel free to reach out to me through my personal email: tuan.4nh.dang@gmail.com
+I’m on the look out for a full-time job and/or summer internship. If you would like to talk more, feel free to reach out to me through my personal email: tuan.4nh.dang@gmail.com
 
 
 <!---
