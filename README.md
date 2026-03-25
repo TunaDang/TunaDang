@@ -2,7 +2,7 @@ Hello, my name is Tuan Anh Dang and I graudated Master of Engineering in Compute
 
 I’m open to MLE and Economics opportunities. For more information, you can view my full credentials at www.linkedin.com/in/TuanAnhDang or website https://tunadang.github.io/ 
 
-Feel free to reach out to me at tuan.4nh.dang@gmail.com
+Feel free to reach out to me at tuandang@mit.edu
 
 <!---
 TunaDang/TunaDang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
